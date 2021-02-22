@@ -71,6 +71,15 @@ Assets {
   }
 }
 Assets {
+  Id: 12387522962726058365
+  Name: "Cube"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_cube_002"
+  }
+}
+Assets {
   Id: 11515840070784317904
   Name: "Skylight"
   PlatformAssetType: 6
