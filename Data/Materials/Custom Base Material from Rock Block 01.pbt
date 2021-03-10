@@ -2,7 +2,7 @@ Assets {
   Id: 12083810938425788968
   Name: "Desert Rock"
   PlatformAssetType: 13
-  SerializationVersion: 74
+  SerializationVersion: 76
   CustomMaterialAsset {
     BaseMaterialId: 13522695314256268748
     ParameterOverrides {
